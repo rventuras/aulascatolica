@@ -1,0 +1,19 @@
+Linguagem Natural
+
+1- Solicitar Número
+2- Calcular
+3- Apresentar Resultado
+
+Português Estruturado
+
+Número Real, hora,minuto,segundos;
+ 
+    escreva("hora");
+    leia(hora); 
+    minutos = hora * 60;
+    leia = minutos;
+    segundos = minutos * 60;
+    leia(segundos);
+    escreval("Total de minutos e segundos é");
+    escreva(minutos, segundos);
+fim
