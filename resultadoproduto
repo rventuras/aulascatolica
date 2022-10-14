@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <math.h>
+int main (){
+	int v1, v2, prod;
+	printf ("Insira valor 1 e valor 2: ");
+	scanf ("%d%d", &v1,&v2);
+	prod = v1 * v2;
+	printf ("PROD = %d", prod);
+}
